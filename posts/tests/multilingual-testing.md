@@ -1,9 +1,11 @@
 ---
-title: 预览测试 · 多语言字体
+title: 样式预览 &nbsp;·&nbsp; 多语言
 date: 2025-06-02T12:41:45+08:00
 categories: [tests]
 tags: []
+summary: 测试多种语言字体的外观效果。包括中文、英语、日语、德语、法语、俄语等。
 draft: false
+isCJKLanguage: true
 ---
 
 示例 / Example / 例 / Beispiel / Exemple / Пример:
