@@ -1,5 +1,5 @@
 ---
-title: 样式预览 &nbsp;·&nbsp; 多语言
+title: '样式预览 02 - 多语言字体'
 date: 2025-06-02T12:41:45+08:00
 categories: [tests]
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: 样式预览 &nbsp;·&nbsp; 简码
+title: '样式预览 03 - 预定义 Shortcodes'
 date: 2025-06-24T13:29:14+08:00
 categories: [tests]
 tags: []
@@ -17,7 +17,7 @@ isCJKLanguage: true
 ## Alert
 
 {{< alert icon="triangle-exclamation" iconColor="#f1faee" cardColor="#e63946" textColor="#f1faee" >}}
-请不要轻易尝试 `rm -rf /*` ！
+在使用 `rm -rf /*` 前，请确保你知道这会发生什么！
 {{< /alert >}}
 
 ## Button
