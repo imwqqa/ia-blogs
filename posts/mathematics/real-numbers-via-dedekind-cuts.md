@@ -1,6 +1,6 @@
 ---
 title: '数学分析 - Dedekind 分割与实数系统'
-date: 2025-10-02T12:09:07+08:00
+date: 2025-10-05T00:41:07+08:00
 categories: [mathematics]
 tags: []
 summary: 本文从实数的引入开始，在有理数上 Dedekind 分割定义实数系，并由此进一步证明确界存在原理，尝试用不同的视角理解完备性。
