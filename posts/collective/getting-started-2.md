@@ -1,9 +1,9 @@
 ---
-title: '起步指南 02 - 作为程序的路径'
+title: '起步指南 - 作为程序的学习路径'
 date: 2025-10-01T01:53:29+08:00
 categories: [collective]
 tags: []
-summary: 本文为想要从程序方面入手游戏开发的大家提供个人的经验与推荐的学习路径。
+summary: 本文从游戏开发的程序方面，为刚接触程序及编码的初学者，提供个人的经验与推荐的学习路径。
 draft: false
 isCJKLanguage: true
 ---

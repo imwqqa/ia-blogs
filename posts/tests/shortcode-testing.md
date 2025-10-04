@@ -1,5 +1,5 @@
 ---
-title: '样式预览 03 - 预定义 Shortcodes'
+title: '样式预览 - 预定义 Shortcodes'
 date: 2025-06-24T13:29:14+08:00
 categories: [tests]
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: '样式预览 01 - Markdown 排版'
+title: '样式预览 - Markdown 排版'
 date: 2025-06-01T16:53:49+08:00
 categories: [tests]
 tags: []

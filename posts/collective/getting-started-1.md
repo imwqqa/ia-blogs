@@ -1,9 +1,9 @@
 ---
-title: '起步指南 01 - 游戏开发的宏观'
+title: '起步指南 - 游戏开发的宏观'
 date: 2025-09-27T19:15:51+08:00
 categories: [collective]
 tags: []
-summary: '这个系列是为加入 2025 Game Creators 群组的大家准备的游戏开发完全零基础起步指南。本文内容以概览游戏开发的各分工工作内容及其需要的技能和工具为主。'
+summary: '这个系列是为加入 2025 GameCreators !! 群组的大家准备的游戏开发完全零基础起步指南。本文内容以概览游戏开发的各分工工作内容及其需要的技能和工具为主。'
 draft: false
 isCJKLanguage: true
 ---
