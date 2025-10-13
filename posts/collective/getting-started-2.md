@@ -3,7 +3,7 @@ title: '起步指南 - 作为程序的学习路径'
 date: 2025-10-01T01:53:29+08:00
 categories: [collective]
 tags: []
-summary: 本文从游戏开发的程序方面，为刚接触程序及编码的初学者，提供个人的经验与推荐的学习路径。
+summary: 本文以游戏开发为着手点，为初学者提供系统的程序学习路径与实践建议，路径包括逐步从基础语法到完整项目实战为止的核心节点。
 draft: false
 isCJKLanguage: true
 ---

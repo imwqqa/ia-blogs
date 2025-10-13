@@ -13,7 +13,7 @@ isCJKLanguage: true
 
 Dedekind 分割视角下，可以理解到任何 \\(r \in \mathbb{R}\\)，即任何实数都代表了一个集合，用这样的方法可以进一步的使用理性理解极限，从而避免依赖直觉产生的似是而非的混乱。
 
-同时，Dedekind 分割展示了将动态迫近的过程转化为集合的精彩方法，并由此自然的延申串联起了集合论与点集拓扑等理论。
+同时，Dedekind 分割展示了将动态迫近的过程转化为集合的精彩方法，并由此自然的延申串联起了集合论与拓扑等理论。
 
 ## 实数的引入
 
@@ -44,7 +44,7 @@ Dedekind 分割构造 \\(\mathbb{R}\\) 正是建立在这一思路上的定义�
 在介绍 Dedekind 分割之前，首先介绍划分这个前置概念。
 
 $$
-    \text{Definition (Partition):} \\\\[1ex]
+    \text{Definition (Partition).} \\\\[1ex]
     \text{A partition of a set } A \text{, is a pair of disjoint subsets } \(\alpha,\ \beta\) \text{ such that: } \\\\[0.8ex]
     \begin{aligned}
         &\text{1. } \alpha \cup \beta = A.\\\\
@@ -55,7 +55,7 @@ $$
 划分是一对是任意集合 \\(A\\) 的子集 \\(\(\alpha,\ \beta\)\\)，它们不相交，并集恰好为 \\(A\\)；Dedekind 分割首先是划分，在此之上加入了两个条件，分别是向下封闭，以及无最大元。
 
 $$
-    \text{Definition (Dedekind Cut):} \\\\[1ex]
+    \text{Definition (Dedekind Cut).} \\\\[1ex]
     \text{Dedekind cut is a partition that } A = \mathbb{Q},\ \alpha \cup \beta = \mathbb{Q},\ \ \alpha \cap \beta = \varnothing,\text{ and: }\\\\[0.8ex]
     \begin{aligned}
         &\text{1. } \forall\ x \in \alpha, \ \forall\ y \in \beta\ \Rightarrow\ x < y. \\\\
@@ -78,7 +78,7 @@ $$
 如果 Dedekind 下集作为一个数，那么它是唯一确定的。因为划分本身是唯一的，不存在相同下集的两个不同划分；由于集合本身是无限的，只能通过描述法来构造 Dedekind 下集，是自明而确定的。
 
 $$
-    \text{Definition (Real Numbers):} \\\\[1ex]
+    \text{Definition (Real Numbers).} \\\\[1ex]
     \text{A real number is any subset of } \mathbb{Q} \text{, that can form the lower set of a Dedekind cut.} \\\\[0.8ex]
     \mathbb{R} := \\{\ \alpha \subset \mathbb{Q}\ \mid\ \alpha \text{ satisfies following 1 - 3 } \\} \\\\[0.8ex]
     \begin{aligned}
