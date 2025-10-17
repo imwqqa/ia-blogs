@@ -3,7 +3,7 @@ title: '数学分析 - Cauchy 收敛准则与极限'
 date: 2025-10-14T00:03:13+08:00
 categories: [mathematics]
 tags: []
-summary: 本文尝试历史根源开始，并以朴素的想法开始，从无逐步推进、得到了极限的概念，并分析概念背后的方法论、逻辑和哲学，试图解释其思维结构。
+summary: 本文从朴素的收敛概念开始，通过十进制收敛引出 Cauchy 收敛准则，再到构造出极限的标准定义，分析极限作为纯粹形式的对象的逻辑。
 draft: false
 isCJKLanguage: true
 ---
