@@ -1,5 +1,5 @@
 ---
-title: '数学分析 - 迫近确定性的二象性与极限'
+title: '数学分析 - Cauchy 收敛准则与极限'
 date: 2025-10-14T00:03:13+08:00
 categories: [mathematics]
 tags: []
@@ -8,6 +8,14 @@ draft: false
 isCJKLanguage: true
 ---
 {{< katex >}}
+
+{{< alert >}}
+**Tip**：本文假设读者对数学分析有一定的了解。
+{{< /alert >}}
+\
+{{< alert >}}
+**Todo**：本文有待补充的内容，本文仍待修改内容表述。
+{{< /alert >}}
 
 极限是一个具有重要意义的概念，现代分析以 \\(\epsilon-\delta\\) 语言严格定义。
 
